@@ -11,7 +11,6 @@ public class Main{
         c.grow(3);
         c.die("My cherry plant");
 
-        //man skulle trykke run, men pga. fejl virker det ikke
     }
 }
 
